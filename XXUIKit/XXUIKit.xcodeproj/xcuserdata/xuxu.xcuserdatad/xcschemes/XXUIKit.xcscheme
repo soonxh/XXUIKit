@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "C3F6CAAF1EC2B0E100458D5F"
+               BlueprintIdentifier = "C3F7861B1EC5507200CCE34D"
                BuildableName = "XXUIKit.app"
                BlueprintName = "XXUIKit"
                ReferencedContainer = "container:XXUIKit.xcodeproj">
@@ -32,7 +32,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "C3F6CAC81EC2B0E100458D5F"
+               BlueprintIdentifier = "C3F786341EC5507200CCE34D"
                BuildableName = "XXUIKitTests.xctest"
                BlueprintName = "XXUIKitTests"
                ReferencedContainer = "container:XXUIKit.xcodeproj">
@@ -42,7 +42,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "C3F6CAD31EC2B0E100458D5F"
+               BlueprintIdentifier = "C3F7863F1EC5507200CCE34D"
                BuildableName = "XXUIKitUITests.xctest"
                BlueprintName = "XXUIKitUITests"
                ReferencedContainer = "container:XXUIKit.xcodeproj">
@@ -52,7 +52,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "C3F6CAAF1EC2B0E100458D5F"
+            BlueprintIdentifier = "C3F7861B1EC5507200CCE34D"
             BuildableName = "XXUIKit.app"
             BlueprintName = "XXUIKit"
             ReferencedContainer = "container:XXUIKit.xcodeproj">
@@ -75,7 +75,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "C3F6CAAF1EC2B0E100458D5F"
+            BlueprintIdentifier = "C3F7861B1EC5507200CCE34D"
             BuildableName = "XXUIKit.app"
             BlueprintName = "XXUIKit"
             ReferencedContainer = "container:XXUIKit.xcodeproj">
@@ -94,7 +94,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "C3F6CAAF1EC2B0E100458D5F"
+            BlueprintIdentifier = "C3F7861B1EC5507200CCE34D"
             BuildableName = "XXUIKit.app"
             BlueprintName = "XXUIKit"
             ReferencedContainer = "container:XXUIKit.xcodeproj">
